@@ -1,3 +1,6 @@
+<img width="1457" height="749" alt="Screenshot 2026-06-24 at 15 56 55" src="https://github.com/user-attachments/assets/70335a7f-ac04-4454-aaa9-ba6a013c7255" />
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
 
 * [/iosApp](./iosApp/iosApp) contains an iOS application. Even if you’re sharing your UI with Compose Multiplatform,
